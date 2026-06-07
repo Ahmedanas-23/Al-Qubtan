@@ -14,7 +14,7 @@ import Form from "../components/Form";
 
 export default function Contact() {
   return (
-    <div id="contact" className="w-full relative overflow-hidden">
+    <div id="contacts" className="w-full relative overflow-hidden">
     
       <Form />
     </div>
